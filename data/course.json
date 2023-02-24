@@ -4,7 +4,12 @@
   "level": [
     "Non Credit"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
